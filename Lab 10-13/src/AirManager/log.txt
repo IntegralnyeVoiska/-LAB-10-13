@@ -1,0 +1,121 @@
+2019-04-19 18:26:35 INFO  Task:32 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 18:35:03 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 18:38:42 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 18:51:16 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 18:52:50 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:18:57 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:20:10 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:20:10 INFO  Task:35 - 
+		Airline.Airline@4fca772d
+2019-04-19 19:20:24 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:20:24 INFO  Task:35 - 
+		
+Name : Не Рыжий
+Capacity of object : 400
+Capacity of people : 2
+Name : Анархист
+Capacity of object : 200
+Capacity of people : 2
+Name : Ради Гари 4ый подход
+Capacity of object : 100
+Capacity of people : 200
+2019-04-19 19:21:12 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:21:12 INFO  Task:35 - 
+		
+Name : Не Рыжий
+Capacity of object : 400
+Capacity of people : 2
+
+Name : Анархист
+Capacity of object : 200
+Capacity of people : 2
+
+Name : Ради Гари 4ый подход
+Capacity of object : 100
+Capacity of people : 200
+
+2019-04-19 19:23:35 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:23:35 INFO  Task:35 - 
+		
+Name : Не Рыжий
+Capacity of object : 400
+Capacity of people : 2
+
+Name : Анархист
+Capacity of object : 200
+Capacity of people : 2
+
+Name : Ради Гари 4ый подход
+Capacity of object : 100
+Capacity of people : 200
+
+2019-04-19 19:24:22 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:24:22 INFO  Task:35 - 
+		
+Name : Не Рыжий
+Capacity of object : 400
+Capacity of people : 2
+
+Name : Анархист
+Capacity of object : 200
+Capacity of people : 2
+
+Name : Ради Гари 4ый подход
+Capacity of object : 100
+Capacity of people : 200
+
+2019-04-19 19:24:57 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:24:57 INFO  Task:35 - 
+		
+Name : Не Рыжий
+Capacity of object : 400
+Capacity of people : 2
+
+Name : Анархист
+Capacity of object : 200
+Capacity of people : 2
+
+Name : Ради Гари 4ый подход
+Capacity of object : 100
+Capacity of people : 200
+
+2019-04-19 19:25:17 INFO  Task:33 - 
+		Общая вместисость человеческих попок : 204
+		Общая вместисость обьектов : 700
+2019-04-19 19:25:17 INFO  Task:35 - 
+		Name : Не Рыжий
+		Capacity of object : 400
+		Capacity of people : 2
+		
+		Name : Анархист
+		Capacity of object : 200
+		Capacity of people : 2
+		
+		Name : Ради Гари 4ый подход
+		Capacity of object : 100
+		Capacity of people : 200
+		
